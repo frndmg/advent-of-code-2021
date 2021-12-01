@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "inputs",
+		},
+		{
+			"path": "day1/py",
+			"name": "day1/py"
+		}
+	],
+	"settings": {}
+}
