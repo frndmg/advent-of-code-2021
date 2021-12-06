@@ -6,7 +6,15 @@
 		{
 			"path": "day1/py",
 			"name": "day1/py"
-		}
+		},
+		{
+			"path": "day2/py",
+			"name": "day2/py"
+		},
 	],
-	"settings": {}
+	"settings": {
+		"cSpell.words": [
+			"ddepth"
+		]
+	}
 }
