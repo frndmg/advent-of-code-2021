@@ -11,9 +11,14 @@
 			"path": "day2/py",
 			"name": "day2/py"
 		},
+		{
+			"path": "day3/py",
+			"name": "day3/py"
+		},
 	],
 	"settings": {
 		"cSpell.words": [
+			"colls",
 			"ddepth"
 		]
 	}
